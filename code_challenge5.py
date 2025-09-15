@@ -1,5 +1,3 @@
-# codechallenges.py
-
 print("The FACTORIAL program")
 
 # ask user for input
@@ -11,4 +9,5 @@ for i in range(1, num + 1):
     factorial *= i
 
 # show result
+
 print(f"The Factorial of {num} is {factorial}")
