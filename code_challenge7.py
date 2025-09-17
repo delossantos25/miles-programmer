@@ -1,5 +1,6 @@
 print("⏳ COUNTDOWN TIMER SIMULATOR")
-start = eval(input("Enter a starting number: "))
-for start in range(start, 0,-1):
-    print(start)
-print("Lipad na sa MARS!")
+miles = eval(input("Enter a starting number: "))
+for miles in range(miles, 0,-1):
+    print(miles)
+
+print("Liftoff!")
